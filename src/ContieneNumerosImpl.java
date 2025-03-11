@@ -1,2 +1,6 @@
-public class ContieneNumerosImpl {
+public class ContieneNumerosImpl implements ContieneNumeros {
+    @Override
+    public boolean tieneNumeros(String password) {
+        return password.matches(".*\\d.*");
+    }
 }
