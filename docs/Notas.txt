@@ -1,0 +1,4 @@
+Funciona pasando la contraseña por parametro.
+Comprobado metiendolo mediante Run/Edit Configurations.
+
+Se han realizado pruebas de diferentes contraseñas.
