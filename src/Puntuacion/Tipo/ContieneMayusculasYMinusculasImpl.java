@@ -1,3 +1,5 @@
+package Puntuacion.Tipo;
+
 public class ContieneMayusculasYMinusculasImpl implements ContieneMayusculasYMinusculas {
     @Override
     public boolean tieneMayusculasYMinusculas(String password) {

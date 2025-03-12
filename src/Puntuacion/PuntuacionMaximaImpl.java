@@ -1,3 +1,7 @@
+package Puntuacion;
+
+import Puntuacion.Tipo.*;
+
 public class PuntuacionMaximaImpl implements PuntuacionMaxima {
     private ContieneLetras contieneLetras;
     private ContieneMayusculasYMinusculas contieneMayMin;

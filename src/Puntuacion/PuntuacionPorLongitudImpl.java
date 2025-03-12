@@ -1,3 +1,5 @@
+package Puntuacion;
+
 public class PuntuacionPorLongitudImpl implements PuntuacionPorLongitud {
     @Override
     public int calcularPuntuacionPorLongitud(String password) {

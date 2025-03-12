@@ -1,3 +1,5 @@
+package Puntuacion;
+
 public class PuntuacionImpl implements Puntuacion {
     private PuntuacionPorLongitud puntuacionPorLongitud;
     private PuntuacionPorTipo puntuacionPorTipo;

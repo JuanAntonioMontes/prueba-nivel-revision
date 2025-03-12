@@ -1,3 +1,5 @@
+package Puntuacion.Tipo;
+
 public class ContieneLetrasImpl implements ContieneLetras {
     @Override
     public boolean tieneLetras(String password) {

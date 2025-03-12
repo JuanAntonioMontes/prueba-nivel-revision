@@ -1,3 +1,7 @@
+package Puntuacion;
+
+import Puntuacion.Tipo.*;
+
 public class PuntuacionPorTipoImpl implements PuntuacionPorTipo {
     private ContieneLetras contieneLetras;
     private ContieneMayusculasYMinusculas contieneMayMin;

@@ -1,3 +1,5 @@
+package Valoracion;
+
 public class ValoracionImpl implements Valoracion {
     private int umbral;
 
