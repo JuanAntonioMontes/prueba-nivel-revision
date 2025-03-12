@@ -1,4 +1,4 @@
-package Valoracion;
+package valoracion;
 
 public interface Valoracion {
     String obtenerCategoria(int puntuacion);

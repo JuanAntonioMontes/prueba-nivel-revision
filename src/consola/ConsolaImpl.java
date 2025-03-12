@@ -1,4 +1,4 @@
-package Consola;
+package consola;
 
 public class ConsolaImpl implements Consola {
     private java.util.Scanner scanner;

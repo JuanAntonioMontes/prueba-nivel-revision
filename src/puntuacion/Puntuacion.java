@@ -1,4 +1,4 @@
-package Puntuacion;
+package puntuacion;
 
 public interface Puntuacion {
     int calcular(String password);

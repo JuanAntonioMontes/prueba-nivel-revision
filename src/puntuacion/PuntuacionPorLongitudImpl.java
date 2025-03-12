@@ -1,4 +1,4 @@
-package Puntuacion;
+package puntuacion;
 
 public class PuntuacionPorLongitudImpl implements PuntuacionPorLongitud {
     @Override

@@ -1,6 +1,6 @@
-import Consola.Consola;
-import Puntuacion.Puntuacion;
-import Valoracion.Valoracion;
+import consola.*;
+import puntuacion.*;
+import valoracion.*;
 
 public class Main {
     public static void main(String[] args) {
@@ -9,7 +9,8 @@ public class Main {
             System.exit(1);
         }
 
-        String password = args[0];
+        //String password = args[0];    //Argumento real
+        //String password = "eced@rio123456";             //para pruebas más facil //eliminar tras pruebas !
 
         // Inicializar componentes
         Consola consola = new ConsolaImpl();

@@ -1,6 +1,6 @@
-package Puntuacion;
+package puntuacion;
 
-import Puntuacion.Tipo.*;
+import puntuacion.Tipo.*;
 
 public class PuntuacionMaximaImpl implements PuntuacionMaxima {
     private ContieneLetras contieneLetras;

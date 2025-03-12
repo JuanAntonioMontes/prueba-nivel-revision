@@ -1,4 +1,4 @@
-package Puntuacion.Tipo;
+package puntuacion.Tipo;
 
 public interface ContieneNumeros {
     boolean tieneNumeros(String password);

@@ -1,4 +1,4 @@
-package Puntuacion.Tipo;
+package puntuacion.Tipo;
 
 public class ContieneMayusculasYMinusculasImpl implements ContieneMayusculasYMinusculas {
     @Override

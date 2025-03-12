@@ -1,4 +1,4 @@
-package Puntuacion.Tipo;
+package puntuacion.Tipo;
 
 public class ContieneLetrasImpl implements ContieneLetras {
     @Override

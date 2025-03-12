@@ -1,6 +1,6 @@
-package Puntuacion;
+package puntuacion;
 
-import Puntuacion.Tipo.*;
+import puntuacion.Tipo.*;
 
 public class PuntuacionPorTipoImpl implements PuntuacionPorTipo {
     private ContieneLetras contieneLetras;
